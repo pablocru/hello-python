@@ -14,5 +14,7 @@
 
 ## Load
 
-- Save the transformed DataFrame to a new CSV file named
-  `characters-transformed.csv`.
+Save the transformed DataFrame to a new CSV files:
+
+- `characters-height-in-inches.csv`: Original data plus Height (in inches)
+- `characters-over-30.csv`: Characters older than 30 years
