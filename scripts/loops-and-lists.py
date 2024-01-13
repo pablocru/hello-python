@@ -3,7 +3,7 @@ fruits = ['Mango', 'Banana', 'Orange']
 
 # Print each fruit of the list
 for fruit in fruits:
-  print(fruit)
+    print(fruit)
 
 # Add a new fruit to the list
 fruits.append('Apple')

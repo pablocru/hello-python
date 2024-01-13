@@ -6,11 +6,11 @@ num = float(num)
 
 # Get the number type
 if num > 0:
-  numType = 'positive'
+    numType = 'positive'
 elif num == 0:
-  numType = 'zero'
+    numType = 'zero'
 else:
-  numType = 'negative'
+    numType = 'negative'
 
 # Tell the user what type of number it is
 print(num, 'is', numType)
