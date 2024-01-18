@@ -156,7 +156,7 @@ manually `with the virtual environment activated`.
     tzdata==2023.4
     ```
 
-    Don't forget to add `requirements.txt` to `control version` or you won´t be able
+    Don't forget to add `requirements.txt` to `Version Control` or you won´t be able
     to recreate your environment.
 
 Once `requirements.txt` has been created, you can recreate the environment
