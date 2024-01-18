@@ -1,6 +1,6 @@
 # My first Python App
 
-Simple Python scripts done in my first approach to this language
+Simple Python scripts, first look at ETL and use of Venv
 
 ## Scripts folder
 
