@@ -1,5 +1,5 @@
 # Import Pandas library after installed it running "pip install pandas"
-import pandas as pd
+from pandas import DataFrame
 
 # Create a DataFrame: 2 dimension and tagged data structure from Pandas.
 data = {
@@ -8,5 +8,5 @@ data = {
 }
 
 # Print the DataFrame as a table
-df = pd.DataFrame(data)
+df = DataFrame(data)
 print(df)

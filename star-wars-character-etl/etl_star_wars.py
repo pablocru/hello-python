@@ -1,9 +1,9 @@
-import pandas as pd
+from pandas import read_csv
 
 ''' Extraction '''
 # Get file from .csv file
 file_path = 'characters.csv'
-df = pd.read_csv(file_path)
+df = read_csv(file_path)
 
 # Print the original data
 print('\nOriginal data from "' + file_path + '":')
