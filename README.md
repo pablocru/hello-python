@@ -170,4 +170,4 @@ pip install -r requirements.txt
 
 If you found a bug or have a suggestion please don't hesitate to contact me or
 open an
-[issue on GitHub](https://github.com/pabcrudel/my-first-python-app/issues).
+[issue on GitHub](https://github.com/pablocru/hello-python/issues).
